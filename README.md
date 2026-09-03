@@ -17,6 +17,7 @@ Identify important patterns in card-based transactions and customer payment beha
 
 ## Dataset
 The dataset contains information about:
+
 Bank Category\
 Bank Name\
 Date\
