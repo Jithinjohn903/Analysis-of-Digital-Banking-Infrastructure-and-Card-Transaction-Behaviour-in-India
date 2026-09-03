@@ -16,7 +16,7 @@ Compare banks and bank categories.\
 Identify important patterns in card-based transactions and customer payment behaviour.
 
 ## Dataset
-The dataset contains information about:\
+The dataset contains information about:
 Bank Category\
 Bank Name\
 Date\
@@ -37,11 +37,11 @@ Pandas\
 NumPy\
 Matplotlib\
 Seaborn\
-Jupyter Notebook\
+Jupyter Notebook
 
 ## Analysis Performed
 
-The project includes:\
+The project includes:
 
 Data cleaning\
 Data type conversion\
@@ -57,7 +57,7 @@ Data visualization
 
 ## Visualizations
 
-The following visualizations were used:\
+The following visualizations were used:
 
 Bar Chart\
 Grouped Bar Chart\
@@ -66,7 +66,7 @@ Pie Chart\
 Line Plot\
 Heatmap\
 Box Plot\
-Histogram\
+Histogram
 
 ## Key Findings
 Private Sector Banks show strong digital-payment infrastructure.\
